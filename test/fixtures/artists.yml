@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  about: MyText
+  tattoo: false
+  piercing: MyString
+  boolean: MyString
+
+two:
+  name: MyString
+  about: MyText
+  tattoo: false
+  piercing: MyString
+  boolean: MyString
